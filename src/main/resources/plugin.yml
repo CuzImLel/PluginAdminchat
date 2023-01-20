@@ -1,0 +1,10 @@
+name: AdminChat
+version: '${project.version}'
+main: de.cuzimlel.teamchat.Main
+api-version: 1.19
+authors: [ Cuz_Im_Lel ]
+description: Communicate safe with ServerTeam / Clear the Chat
+website: https://github.com/CuzImLel/
+commands:
+  chat:
+    description: manage your chat!
