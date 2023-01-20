@@ -3,7 +3,7 @@ version: '${project.version}'
 main: de.cuzimlel.teamchat.Main
 api-version: 1.19
 authors: [ Cuz_Im_Lel ]
-description: Communicate safe with ServerTeam / Clear the Chat
+description: Manage your Minecraft chat!
 website: https://github.com/CuzImLel/
 commands:
   chat:
